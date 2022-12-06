@@ -7,7 +7,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yusiwon&show_icons=true">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusiwon&layout=compact)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=danseryu)](https://solved.ac/profile/danseryu)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 ### 📱 Contact 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danseryu@naver.com)](mailto:danseryu@naver.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/si_w._.n/)
