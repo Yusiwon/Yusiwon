@@ -27,7 +27,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=danseryu)](https://solved.ac/danseryu)
 </div>
 
-
+<br>
 <div align=center>
 	<p>🎨 SNS & Contact 🎨</p>
 </div>
