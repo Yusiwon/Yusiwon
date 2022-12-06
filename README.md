@@ -32,7 +32,16 @@
 	</a>
 	<br>
 </div>
-### 📱 Contact 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danseryu@naver.com)](mailto:danseryu@naver.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)]()
 
+<div align=center>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusiwon&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=Yusiwon&show_icons=true">
 
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Yusiwon)
+
+<br>
+<p>🏆 Baekjoon solved rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=danseryu)](https://solved.ac/danseryu)
+</div>
