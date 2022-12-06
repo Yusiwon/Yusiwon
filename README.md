@@ -12,9 +12,6 @@
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
 </div>
 
-[![Java Badge](https://img.shields.io/badge/-Java-%23ff5545?style=flat-square&logo=Java&logoColor=white)](https://devdocs.programmers.co.kr/references/java/docs/api/index.html?overview-summary.html)
-[![Git Badge](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/doc)
-[![python Badge]<img src="https://img.shields.io/badge/아이콘내용-yellow?style=flat&logo=#3776AB&logoColor=white"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusiwon&layout=compact)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=danseryu)](https://solved.ac/danseryu)
