@@ -1,5 +1,6 @@
-# Siwon-Github 💻  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuInWoo&count_bg=%23E3CC35&title_bg=%23DF5B5B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Siwon%20Github!&fontSize=90" />	
+</div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Languages & Platforms ✨</p>
