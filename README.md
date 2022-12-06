@@ -13,19 +13,6 @@
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
 </div>
 
-<div align=center>
-	<p>🎨 SNS & Contact 🎨</p>
-</div>
-<div align=center>
-
-	<a href="mailto:danseryu@naver.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
-	<br>
-</div>
 
 <div align=center>
 	<br>
@@ -38,4 +25,19 @@
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=danseryu)](https://solved.ac/danseryu)
+</div>
+
+
+<div align=center>
+	<p>🎨 SNS & Contact 🎨</p>
+</div>
+<div align=center>
+
+	<a href="mailto:danseryu@naver.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	</a>
+	<br>
 </div>
