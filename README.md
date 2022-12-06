@@ -34,9 +34,8 @@
 	<a href="mailto:danseryu@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Naver&logoColor=white" />
 	</a>
-	<a href="https://yermi.tistory.com">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	<a href="https://www.instagram.com/si_w._.n/">
+		<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white" />
 	</a>
-	
-	<br>
+
 </div>
