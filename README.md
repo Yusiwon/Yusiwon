@@ -6,7 +6,7 @@
 [![Git Badge](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/doc) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusiwon&layout=compact)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={danseryu})](https://solved.ac/{danseryu})
 <img src="https://github-readme-stats.vercel.app/api?username=Yusiwon&show_icons=true">
 
 ### 📱 Contact 
