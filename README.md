@@ -17,14 +17,13 @@
 	<p>🎨 SNS & Contact 🎨</p>
 </div>
 <div align=center>
-
+	
 	<a href="mailto:danseryu@naver.com">
 		<img src="https://img.shields.io/badge/Mail-03C75A?style=flat&logo=Naver&logoColor=white" />
 	</a>
 	<a href="[https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d](https://www.instagram.com/si_w._.n/)">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>
-	<br>
 </div>
 
 <div align=center>
@@ -32,7 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusiwon&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=Yusiwon&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Yusiwon)
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=danseryu)
 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
