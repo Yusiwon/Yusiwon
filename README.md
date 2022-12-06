@@ -5,7 +5,7 @@
 [![Java Badge](https://img.shields.io/badge/-Java-%23ff5545?style=flat-square&logo=Java&logoColor=white)](https://devdocs.programmers.co.kr/references/java/docs/api/index.html?overview-summary.html)
 [![Git Badge](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/doc) 
 
-![Anurag's GitHub stats]<img src="https://github-readme-stats.vercel.app/api?username=Yusiwon&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Yusiwon&show_icons=true">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusiwon&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=danseryu)](https://solved.ac/profile/danseryu)
 
