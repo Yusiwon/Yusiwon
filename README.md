@@ -13,12 +13,6 @@
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
 </div>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusiwon&layout=compact)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=danseryu)](https://solved.ac/danseryu)
-<img src="https://github-readme-stats.vercel.app/api?username=Yusiwon&show_icons=true">
-
-
 <div align=center>
 	<p>🎨 SNS & Contact 🎨</p>
 </div>
