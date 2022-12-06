@@ -16,7 +16,7 @@
 
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusiwon&layout=compact" width ="600" height="450">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusiwon&layout=compact" width ="500" height="450">
 <img src="https://github-readme-stats.vercel.app/api?username=Yusiwon&show_icons=true">
 
 
