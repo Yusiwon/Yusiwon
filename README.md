@@ -20,8 +20,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Yusiwon&show_icons=true">
 
 
-	<br>
-	<p>🏆 Baekjoon solved rank 🏆</p>
+<br>
+<p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=danseryu)](https://solved.ac/danseryu)
 </div>
